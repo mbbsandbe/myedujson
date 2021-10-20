@@ -1,0 +1,36 @@
+{
+    "name": "Edu Infoseas",
+    "short_name": "Edu Infoseas",
+    "start_url": "https://www.eduinfoseas.com/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#06b8a2",
+    "orientation":"portrait-primary",
+    "description": "EDu INfoseas - Abroad Educational consultancy - MBBS in RUSSIA",
+    "icons": [{
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgw_1hvyyuqxDhWQzfvNX7eCfzXFShQWmk7v20dHd2hB9jjmYJaqQR-w2vTj-DnQ_XDjJTOVOhh75bahq2ubbYzHDGKK1_gQSvVbypqzMRLtF8agms0Nca5QsqCQIUlC8J-AWVYkJ_Tf8jFBggWxBmZPsl91tebyBWQk5pCcv8L4WqSvk5m8hhzzbVp1Q' rel='eduinfoseas-logo-icon",
+      "sizes": "16x16",
+      "type": "image/png",
+      "density": "0.75"
+    }, {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgKO4pAsUvuEXQeVGuEsX6W6USsymQOaz7AIiOYoq6gPC_ijAprBeBZyt1zESZlxXa7gF8LeP67oR9LEwhX8LdK_YGJflxxgthawQ1dbIWqa1aBcqQbcQpjUxG0wvR4WvSD--hV2KZxssNjA_DWmIvvuBKCMxzqwsPi4LBfEWock69dRhFmJExO1BimBQ' rel='eduinfoseas-logo-icon",
+      "sizes": "32x32",
+      "type": "image/png",
+      "density": "1.0"
+    }, {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgIU1UbtEHzIVKqR2kylofnV2gZdu3bnzjgAVslCnTTwpfiJipmwCEM0PP4MmFqJ5cja1L0JRXhiYUYnWkSNbm4jJaxlLdexXGgg2bLxKI3fmpzbmITmSGVr4EuvFitciZBqwsvlCBzc5l2g-5FeJBsfQ1x-_tAjbWoptAtiKOEyy4PLYSQgX0FyYI1Pw' rel='eduinfoseas-logo-icon",
+      "sizes": "48x48",
+      "type": "image/png",
+      "density": "1.5"
+    }, {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjlUY5fG2SxLFHC8lo8UuMxt4oL96ASGKwb6R6ak9fh2m1VMGvHRzCLSPg_2kQ97ULaubeXqciJHUULAEOEV3GAnwerQ4I4YorsdllvmLhR8WdYnfWmvtrISCfyay6Lb_tYS9iRcx4NLrgUNI6iX7Tvza9btzXxbQpX4MLKH4LwDPMGcrmKVYrsiInjyw' rel='eduinfoseas-logo-icon",
+      "sizes": "192x192",
+      "type": "image/png",
+      "density": "2.0"
+    }, {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjaVV0Jh-4PiXfAUFR7MlOvYuYqLy_HFDMeZXQT0fSevF5x6UxHKYiR30U3SQCBnnokycbR8caeK84g0d0pdRXEZxUKmcRl413BxnupBRHgLbAnurSM3IgH7td8kiagdk7Xg22NPICkVLJkkkKCcRMX2vAAOJwa0IwBqCmP5N4lhea_V9DkWesS4c1i1g' rel='eduinfoseas-logo-icon",
+      "sizes": "512x512",
+      "type": "image/png",
+      "density": "3.0"
+    }]
+  }
