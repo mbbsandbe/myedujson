@@ -5,32 +5,42 @@
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#06b8a2",
-    "orientation":"portrait-primary",
+    "lang": "en-US",
+    "dir": "ltr",
+    "orientation": "landscape"
+
     "description": "Edu INfoseas - Abroad Educational consultancy - MBBS in RUSSIA",
     "icons": [{
       "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgw_1hvyyuqxDhWQzfvNX7eCfzXFShQWmk7v20dHd2hB9jjmYJaqQR-w2vTj-DnQ_XDjJTOVOhh75bahq2ubbYzHDGKK1_gQSvVbypqzMRLtF8agms0Nca5QsqCQIUlC8J-AWVYkJ_Tf8jFBggWxBmZPsl91tebyBWQk5pCcv8L4WqSvk5m8hhzzbVp1Q' rel='eduinfoseas-logo-icon",
       "sizes": "16x16",
       "type": "image/png",
-      "density": "0.75"
+      
     }, {
       "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgKO4pAsUvuEXQeVGuEsX6W6USsymQOaz7AIiOYoq6gPC_ijAprBeBZyt1zESZlxXa7gF8LeP67oR9LEwhX8LdK_YGJflxxgthawQ1dbIWqa1aBcqQbcQpjUxG0wvR4WvSD--hV2KZxssNjA_DWmIvvuBKCMxzqwsPi4LBfEWock69dRhFmJExO1BimBQ' rel='eduinfoseas-logo-icon",
       "sizes": "32x32",
       "type": "image/png",
-      "density": "1.0"
+      
     }, {
-      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgIU1UbtEHzIVKqR2kylofnV2gZdu3bnzjgAVslCnTTwpfiJipmwCEM0PP4MmFqJ5cja1L0JRXhiYUYnWkSNbm4jJaxlLdexXGgg2bLxKI3fmpzbmITmSGVr4EuvFitciZBqwsvlCBzc5l2g-5FeJBsfQ1x-_tAjbWoptAtiKOEyy4PLYSQgX0FyYI1Pw' rel='eduinfoseas-logo-icon",
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiJNJs3CSxb4zlF4TmYSwf1b-r_euywUeKfYpNetf4RgoL0hoR31WOCMMmZJL0j7DwNdGWzjtk5N7xoWsu-0jAwZAOQqQbRORBcBlVq5DEs1-BWgWEfMlGS-qcOOowY9kxwmXrPDqRUBGj21fPCgpHl7pES_jB_32iRxbhjBh7vu5ASstitcca6ejM5Ng' rel='eduinfoseas-logo-icon",
       "sizes": "48x48",
       "type": "image/png",
-      "density": "1.5"
+      
     }, {
-      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjYvaZ6qmSQ2M4GNxWtvUQ6Oou8a_YISMddBp0hlG5fN1vDjZoqAqQDmWpdMfPi2-LW2gLd3weWNNt_7EZ-uBn2V9go4NsCACkyszW7TQk8_JHX6SPPYLEoPy6pgcGXrCpnk_ddD-sMk2hysWP08F6vF5NAdbLhrE5RBWNknD1D4BdqcKfW573ompACZA' rel='eduinfoseas-logo-icon",
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjNm9QBrCaK1Wp_KmdznUK8MrsgsJWEeGhwogwh3GtVkLUwLIkt338UsmUGi2BLucpMHQXPTX0jVPTd5g-6Thky_OV3twoIq_-mIuZdtZj_s6jhArS15iToeXB96YOYtXCxNeGSzuFnNEoTK98MnJNZevgRaQkPkduGS80sPgwlyAfjj6eoINePf7Bgbg' rel='eduinfoseas-logo-icon",
       "sizes": "192x192",
       "type": "image/png",
-      "density": "2.0"
-    }, {
-      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjaVV0Jh-4PiXfAUFR7MlOvYuYqLy_HFDMeZXQT0fSevF5x6UxHKYiR30U3SQCBnnokycbR8caeK84g0d0pdRXEZxUKmcRl413BxnupBRHgLbAnurSM3IgH7td8kiagdk7Xg22NPICkVLJkkkKCcRMX2vAAOJwa0IwBqCmP5N4lhea_V9DkWesS4c1i1g' rel='eduinfoseas-logo-icon",
+      
+    }, 
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjNm9QBrCaK1Wp_KmdznUK8MrsgsJWEeGhwogwh3GtVkLUwLIkt338UsmUGi2BLucpMHQXPTX0jVPTd5g-6Thky_OV3twoIq_-mIuZdtZj_s6jhArS15iToeXB96YOYtXCxNeGSzuFnNEoTK98MnJNZevgRaQkPkduGS80sPgwlyAfjj6eoINePf7Bgbg",
+      "type": "image/png",
+      "sizes": "192x192"
+      "purpose": "maskable"
+    },
+{
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEh6Bos0gEM9mQQA-rS8utsbZgyfWSXfCB4g7EmmR-ZJMudn7zrmAfcMzkjt9FU3JdpAf8rleudltK_DHE929go5RubznzqTiWCLfpDRK-Q1_LejEMvIvRJlOFK59HjXj_vNGuU10GTRzg1z1m21RHAgo_Ay_Sa7p58rwxr1mWxADk-9_GQvA6vmSxUtLA' rel='eduinfoseas-logo-icon",
       "sizes": "512x512",
       "type": "image/png",
-      "density": "3.0"
+      
     }]
   }
